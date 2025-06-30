@@ -1,0 +1,18 @@
+@import "https://js.arcgis.com/4.21/@arcgis/core/assets/esri/themes/dark/main.css";
+html,
+body,
+#viewDiv,
+.mapView
+{
+        height: 100%;
+        width: 100%;
+        margin: 0;
+        padding: 0;
+      }
+
+      td {
+        padding: 4px;
+}
+#searchPanel{
+  padding: 5px;
+}
